@@ -13,6 +13,8 @@
 
 # Documentation
 
+https://github.com/devCrossNet/vue-starter
+
 **[https://vue-starter.herokuapp.com/docs](https://vue-starter.herokuapp.com/docs)**
 
 # Live demo
