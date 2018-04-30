@@ -17,11 +17,11 @@
 
   export default {
     metaInfo:   {
-      title: 'vue-starter - flexible, scalable, opinionated, fast',
+      title: 'vue-starter - Flexible, scalable, opinionated, fast',
       meta:  [
         {
           name:    'description',
-          content: 'vue-starter - A flexible, scalable, opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
+          content: 'vue-starter - A flexible, scalable, big ole opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
         },
         {
           name:    'robots',
@@ -38,11 +38,11 @@
         { name: 'og:locale', content: 'en' },
         {
           name:    'og:title',
-          content: 'vue-starter - A flexible, scalable, opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
+          content: 'vue-starter - A flexible, scalable, ogtitle opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
         },
         {
           name:    'og:description',
-          content: 'vue-starter - A flexible, scalable, opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
+          content: 'vue-starter - A flexible, scalable, yup opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
         },
         { name: 'og:image:url', content: 'https://vue-starter.herokuapp.com/logo.png' },
 
@@ -51,13 +51,13 @@
         { name: 'twitter:creator', content: '@_jwerner_' },
         {
           name:    'twitter:title',
-          content: 'vue-starter - A flexible, scalable, opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
+          content: 'vue-starter - A flexible, scalable, twitter opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
         },
         { name: 'twitter:url', content: 'https://vue-starter.herokuapp.com/' },
         { name: 'twitter:image', content: 'https://vue-starter.herokuapp.com/logo.png' },
         {
           name:    'twitter:description',
-          content: 'vue-starter - A flexible, scalable, opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
+          content: 'vue-starter - A flexible, scalable, tdescript opinionated boilerplate for production-ready PWAs with focus on performance, development speed, and best practices',
         },
       ],
     },

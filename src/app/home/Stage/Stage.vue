@@ -7,10 +7,10 @@
     <vue-grid>
       <vue-grid-row>
         <vue-grid-item>
-          <h1 :class="$style.title">Vue.js Starter</h1>
+          <h1 :class="$style.title">Vue.js Starter src>app>home>Stage</h1>
           <div :class="$style.subTitle">
             {{
-            $t('App.core.description' /* A flexible, scalable, opinionated boilerplate for production-ready PWAs with
+            $t('App.core.desscription' /* In stage.vue A flexible, scalable, opinionated boilerplate for production-ready PWAs with
             focus on performance, development speed, and best practices */)
             }}
           </div>

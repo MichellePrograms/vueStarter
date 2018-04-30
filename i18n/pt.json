@@ -1,5 +1,5 @@
 {
-  "App.core.description": "an enterprise ready boilerplate for isomorphic, progressive web apps with Vue.JS",
+  "App.core.desscription": "Content in i18n folder. an enterprise ready boilerplate for isomorphic, progressive web apps with Vue.JS",
   "App.nav.components": "Componentes",
   "App.nav.counter": "Contador",
   "App.nav.docs": "Documentation",
